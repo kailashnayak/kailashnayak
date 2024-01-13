@@ -9,7 +9,7 @@
 
 🌐 Socials <br>
 <a href="https://www.linkedin.com/in/kailash-dharavath">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="10">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50">
 </a>
 
 
