@@ -8,7 +8,8 @@
 - 💼 Portfolio - [kailash.netlify.app](https://app.netlify.com/teams/kailashnayak-j7slcfi/overview)
 
 🌐 Socials <br>
-[![Linkedin](https://www.linkedin.com/in/kailash-dharavath)]([https://github.com](https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg)https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg)
+[![Linkedin](https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg)](https://www.linkedin.com/in/kailash-dharavath)
+
 
 
 
