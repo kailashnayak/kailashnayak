@@ -20,7 +20,7 @@
 </div>
 <h2>⚙️Tools</h2>
 <div style="display:flex">
- <img src="https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e"
+ <img src="https://repository-images.githubusercontent.com/657248114/d3c7b91a-b285-4d1e-8429-5de1acc5f61e" width="150" height="70">
 </div>
 
 
