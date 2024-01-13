@@ -14,8 +14,8 @@
 
 <h2>💻TechStacks</h2>
 <div style="display:flex">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvGxWqHmjVVSeFtKsEX3QgOR9Au-9hKUzfsjoJdL5qqiEf7Y9mjA8t66s3uUc7BGzv2k&usqp=CAU" width="100" height="70">
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="40" height="30">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvGxWqHmjVVSeFtKsEX3QgOR9Au-9hKUzfsjoJdL5qqiEf7Y9mjA8t66s3uUc7BGzv2k&usqp=CAU" width="150" height="60">
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="150" height="70">
 </div>
 
 
