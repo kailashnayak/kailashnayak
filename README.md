@@ -13,8 +13,11 @@
 </a>
 
 <h2>💻TechStacks</h2>
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="40" height="30">
+<div style="display:flex">
+ <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="40" height="30">
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" width="40" height="30">
+</div>
+
 
 
 
