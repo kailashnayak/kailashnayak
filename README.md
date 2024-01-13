@@ -12,7 +12,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30">
 </a>
 
-<h4>TechStacks</h4>
+<h2>💻TechStacks</h2>
 
 
 
