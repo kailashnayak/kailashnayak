@@ -7,7 +7,7 @@
 - 📧 Email - dharavathkailash54@gmail.com
 - 💼 Portfolio - [kailash.netlify.app](https://app.netlify.com/teams/kailashnayak-j7slcfi/overview)
 
-🌐 <h5>Socials</h5> <br>
+<span style="font-size:larger;">🌐 Socials</span>
 <a href="https://www.linkedin.com/in/kailash-dharavath">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50">
 </a>
