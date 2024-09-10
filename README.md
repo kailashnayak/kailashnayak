@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Full Stack web developer course ...
 - 💬 Ask me about HTML, CSS, React & GitHub...
 - 📧 Email - dharavathkailash54@gmail.com
-- 💼 Portfolio - [kailash.netlify.app](https://app.netlify.com/teams/kailashnayak-j7slcfi/overview)
+
 
 <span style="font-size:24px;">🌐 Socials</span><br>
 <a href="https://www.linkedin.com/in/kailash-dharavath">
